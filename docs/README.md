@@ -2,19 +2,37 @@
 
 ## Description
 
-Enter a verbose description about the project being worked on.  Include details on what the project will accomplish and provide.
+This project shall bring variable value modification to the xtUML verifier tool.
 
 ## Requirements
 
-Enter the requirements including the acceptance tests matching the stated requirements.  This is a very important section as it allows interested parties something to base a pledge on.  
+R1.1 Support modification of all simple core value types  
+  R1.1.1 Support boolean type  
+  R1.1.2 Support real type  
+  R1.1.3 Support string type  
+  R1.1.4 Support integer type  
+  R1.1.5 Support Enumerations  
+  R1.1.6 Support all types above as the core type for a user defined type  
+R1.2 Column editors shall be used for the variable values  
+  R1.2.1 Support true or false pull down for boolean types  
+  R1.2.2 Support direct integer values for real types  
+  R1.2.3 Support direct string values for string types  
+  R1.2.4 Support direct integer values for integer types  
+  R1.2.5 Support enumeration pull down for Enumerations  
+  R1.2.6 Support above editing styles for User Defined types depending on core data type  
+R1.3 Support value modification for local values as well as parameter values  
 
 ## Timeframe  
 
-Enter the project effort estimate here, including an estimated delivery time.  Note that a project is not complete unless all requirements are reached and the pledge goal has been reached.  
+March 7th of 2018. 
+
+## Demonstration  
+
+https://youtu.be/IxbwNuCEuPQ
 
 ## Pledging
 
-Enter the pledge goal here.  Include information regarding the pledge amount.
+The pledge amount for this project is 8,000 USD.  
 
 ### Pledge to this project
 Send an e-mail to [FMAY](mailto:travis.london@gmail.com) to pledge.  
