@@ -32,7 +32,7 @@ https://youtu.be/IxbwNuCEuPQ
 
 ## Pledging
 
-The pledge amount for this project is 8,000 USD.  
+The pledge amount for this project is ? USD.  
 
 ### Pledge to this project
 Send an e-mail to [FMAY](mailto:travis.london@gmail.com) to pledge.  
