@@ -1,5 +1,10 @@
 {
-  "owner": "Travis London",
+  "owner": {
+    "first_name":"Travis",
+    "last_name":"London",
+    "email":"travis.london@fmay.net",
+    "phone": "5203730727"
+  },
   "email": "travis.london@gmail.com",
   "name": "xtUML: Modifiable Runtime Variables",
   "description": "This project aims to add support for modifiable runtime variables in BridgePoint verifier.",
